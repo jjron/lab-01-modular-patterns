@@ -50,3 +50,9 @@ Your lab directory must include
  
 ####  Documentation  
 * Write a description of your project in your README.md
+
+## Rubric  
+* 2ps Configuration
+* 3pts Feature Tasks
+* 3pts Tests
+* 2pts Documentation
